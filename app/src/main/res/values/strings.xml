@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">CryptocurrencyAppYT</string>
+    <string name="app_name">CryptocurrencyApp</string>
+    <string name="coin_detail">%1$d. %2$s (%3$s)</string>
+    <string name="active_coin_string">Active</string>
+    <string name="inactive_coin_string">Inactive</string>
+    <string name="tags_title">Tags</string>
+    <string name="team_members_title">Team Members</string>
 </resources>
